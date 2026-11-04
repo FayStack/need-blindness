@@ -1,9 +1,9 @@
 {
   "redirects": [
     {
-      "source": "/",
-      "destination": "/need-blindness",
-      "permanent": false
+      "source": "/need-blindness",
+      "destination": "/",
+      "permanent": true
     }
   ]
 }
