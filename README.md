@@ -4,7 +4,7 @@ An interactive decision tree for when you can't tell what your body actually nee
 
 🔗 **Live:** https://needblindness.faystack.com
 
-![Need-Blindness-SS](need-blindess.png)
+![Need-Blindness-SS](need-blindness.png)
 
 ## What it does
 - Walks you through a quick decision tree to narrow down what you need
